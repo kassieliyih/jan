@@ -1,0 +1,32 @@
+table{
+        
+		padding-top:30px;
+		padding-left:250px;
+      
+        
+        
+
+
+        
+    }
+    th{
+        background-color:blue;
+        font-size:16px;
+         width:300px;
+         height:100px;
+        color:white;}
+    td{
+        width:300px;
+        height:100px;
+        text-align:center; 
+        background-color:silver;
+         color:white;
+       
+
+    }
+	.d1{
+        width:1200;
+        padding-top:100px;
+        padding-left:60px;
+        background-color:white;
+    }
